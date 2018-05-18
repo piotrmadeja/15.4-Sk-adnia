@@ -1,0 +1,24 @@
+{
+  "name": "15.4-sk-adnia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "js1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "babel *.js --watch --out-file script-compiled.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piotrmadeja/15.4-Sk-adnia.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/piotrmadeja/15.4-Sk-adnia/issues"
+  },
+  "homepage": "https://github.com/piotrmadeja/15.4-Sk-adnia#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-latest": "^6.24.1"
+  }
+}
